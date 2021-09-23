@@ -1,0 +1,28 @@
+{
+  "name": "test-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kai-peterson/test-discord-bot.git"
+  },
+  "author": "Kai Peterson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kai-peterson/test-discord-bot/issues"
+  },
+  "homepage": "https://github.com/kai-peterson/test-discord-bot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "0.1.0-canary.0",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.1.0",
+    "littledb": "^1.0.5",
+    "node-fetch": "^3.0.0"
+  }
+}
