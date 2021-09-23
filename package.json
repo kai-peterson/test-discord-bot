@@ -24,5 +24,8 @@
     "discord.js": "^13.1.0",
     "littledb": "^1.0.5",
     "node-fetch": "^3.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
   }
 }
