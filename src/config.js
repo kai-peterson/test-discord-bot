@@ -4,5 +4,6 @@ dotenv.config();
 
 export default {
     discordToken: process.env.DISCORD_TOKEN,
-    clientId: process.env.CLIENT_ID
+    clientId: process.env.CLIENT_ID,
+    prefix: '!'
 }
